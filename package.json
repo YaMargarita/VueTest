@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "test project",
   "author": "YaMargarita <iakovenko.margarita@gmail.com>",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
